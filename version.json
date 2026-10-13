@@ -1,10 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13",
+  "updated_at": "2026-10-13T00:00:00Z",
+  "min_app_version": 1,
   "files": {
-    "language_databases.json": { "sha256": "...", "size": 180000 },
-    "extended_word_database.json": { "sha256": "...", "size": 350000 },
-    "vlookup_table.json": { "sha256": "...", "size": 60000 },
-    "translations.json": { "sha256": "...", "size": 100000 }
+    "language_databases.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    },
+    "extended_word_database.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    },
+    "vlookup_table.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    },
+    "translations.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    },
+    "name_dictionary.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    },
+    "parameter_descriptions.json": {
+      "size_bytes": 0,
+      "sha256": ""
+    }
   }
 }
