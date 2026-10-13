@@ -1,1 +1,24 @@
-
+{
+  "parameters": {
+    "Hara": "**Hara** adalah inti kekuatan hidup...",
+    "Expression": "**Expression** (Destiny Number) menggambarkan...",
+    "Time": "...",
+    "Heart Desire": "...",
+    "Personality": "...",
+    "Dimensional Analysis": "...",
+    "Synchronize Score": "...",
+    "Coherence Value": "...",
+    "Synergize Value": "...",
+    "Productive Value": "...",
+    "Momen Sukses": "...",
+    "Point of Intensification": "...",
+    "Grafologi Index": "..."
+  },
+  "numberMeanings": {
+    "1": "Kepemimpinan, kemandirian, ambisi",
+    "2": "Diplomasi, kerja sama, keseimbangan",
+    "...": "...",
+    "11": "Visioner spiritual (master number)",
+    "33": "Guru spiritual (master number)"
+  }
+}
