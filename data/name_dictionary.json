@@ -1,1 +1,13 @@
-
+{
+  "Indonesian": [
+    { "name": "Agung", "meaning": "Great, magnificent, noble" },
+    { "name": "Bahagia", "meaning": "Happy, joyful, blessed" },
+    "..."
+  ],
+  "Arabic": [
+    { "name": "Ahmad", "meaning": "Most praised, commendable" },
+    "..."
+  ],
+  "Japanese": [ "..." ],
+  "Chinese": [ "..." ]
+}
