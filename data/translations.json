@@ -1,1 +1,13 @@
-
+{
+  "en": {
+    "welcome_back": "Welcome back,",
+    "all_premium_features_unlocked": "All Premium Features Unlocked!",
+    "...": "..."
+  },
+  "id": { "...": "..." },
+  "fr": { "...": "..." },
+  "es": { "...": "..." },
+  "ar": { "...": "..." },
+  "zh": { "...": "..." },
+  "hi": { "...": "..." }
+}
