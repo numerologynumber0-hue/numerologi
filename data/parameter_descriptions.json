@@ -1,5 +1,5 @@
 {
-  "parameters": {
+  "parameterInfo": {
     "Hara": "**Hara** adalah inti kekuatan hidup yang menggambarkan energi dasar dan potensi bawaan seseorang.\n\nNilai Hara dihitung dari 9 huruf pertama nama (dengan pola khusus 1-8-1 / 2-7-2 / 1-8-1), lalu direduksi menjadi angka 1-9.\n\n**Nilai ideal:** 1, 2, 3, 4, 6 (menunjukkan keseimbangan energi).\n**Nilai kurang ideal:** 5, 7, 8, 9, 11, 13 (perlu perhatian khusus).\n\nHara juga memengaruhi Maturity (kedewasaan) dan menjadi dasar dari Expression.",
     "Expression": "**Expression** (Destiny Number) menggambarkan cara Anda mengekspresikan diri ke dunia luar dan potensi takdir Anda.\n\nDihitung dari total nilai Pythagoras seluruh huruf nama, direduksi per kata lalu dijumlahkan.\n\n**Makna:**\n• 1 → Pemimpin, mandiri\n• 2 → Diplomatis, suportif\n• 3 → Kreatif, ekspresif\n• 4 → Terstruktur, pekerja keras\n• 5 → Fleksibel, petualang\n• 6 → Pengasuh, bertanggung jawab\n• 7 → Analitis, spiritual\n• 8 → Ambisius, berorientasi hasil\n• 9 → Humanis, idealis\n• 11 → Visioner (master number)\n• 22 → Pembangun (master number)",
     "Time": "**Time** menggambarkan peluang, siklus hidup, dan \"waktu\" karma Anda.\n\nDihitung dari penjumlahan tanggal + bulan + tahun lahir, lalu direduksi khusus (11→2, 22→4).\n\n**Makna:**\n• Time menunjukkan momentum dan peluang dalam hidup\n• Menentukan siklus Life Path dan waktu terbaik untuk bertindak\n• Digunakan dalam Compatibility Checker sebagai parameter utama",
@@ -15,15 +15,15 @@
     "Grafologi Index": "**Grafologi** menganalisis karakter berdasarkan nilai khusus setiap huruf (A=1, J=600, W=1400, dll).\n\nDihitung dari total nilai huruf nama, lalu dipetakan ke tabel grafologi.\n\n**Range:**\n• 100% → Potensi positif penuh (😎 😇 👮 💑 🤹 😁 ⚖️ 🙃)\n• 0% → Butuh perhatian khusus (😩 😭)\n\nSetiap angka menghasilkan **saran potensial** untuk pengembangan diri."
   },
   "numberMeanings": {
-    "1": "Kepemimpinan, kemandirian, ambisi",
-    "2": "Diplomasi, kerja sama, keseimbangan",
-    "3": "Kreativitas, ekspresi, komunikasi",
-    "4": "Struktur, kerja keras, stabilitas",
-    "5": "Kebebasan, petualangan, perubahan",
-    "6": "Tanggung jawab, keluarga, harmoni",
-    "7": "Analisis, spiritualitas, kebijaksanaan",
-    "8": "Ambisius, kekayaan, otoritas",
-    "9": "Humanis, idealis, penutup siklus",
+    "1":  "Kepemimpinan, kemandirian, ambisi",
+    "2":  "Diplomasi, kerja sama, keseimbangan",
+    "3":  "Kreativitas, ekspresi, komunikasi",
+    "4":  "Struktur, kerja keras, stabilitas",
+    "5":  "Kebebasan, petualangan, perubahan",
+    "6":  "Tanggung jawab, keluarga, harmoni",
+    "7":  "Analisis, spiritualitas, kebijaksanaan",
+    "8":  "Ambisius, kekayaan, otoritas",
+    "9":  "Humanis, idealis, penutup siklus",
     "11": "Visioner spiritual (master number)",
     "13": "Transformasi keras, kerja berat",
     "14": "Kebebasan & perubahan (karma)",
