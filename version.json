@@ -1,1 +1,10 @@
-
+{
+  "version": 1,
+  "updated_at": "2026-10-13",
+  "files": {
+    "language_databases.json": { "sha256": "...", "size": 180000 },
+    "extended_word_database.json": { "sha256": "...", "size": 350000 },
+    "vlookup_table.json": { "sha256": "...", "size": 60000 },
+    "translations.json": { "sha256": "...", "size": 100000 }
+  }
+}
